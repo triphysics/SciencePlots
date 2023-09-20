@@ -18,9 +18,9 @@ font.sans-serif: DejaVu Sans, Arial, Helvetica, Lucida Grande, Verdana, Geneva, 
 mathtext.fontset : dejavusans
 
 # Set line widths
-axes.linewidth : 0.5
-grid.linewidth : 0.5
-lines.linewidth : 1.
+axes.linewidth : 1.0
+grid.linewidth : 1.0
+lines.linewidth : 2.
 lines.markersize: 3
 
 # Always save as 'tight'
